@@ -34,7 +34,7 @@
     "@iapps/ngx-dhis2-period-filter": "^2.0.0-beta.4",
     "@ngrx/effects": "^9.1.2",
     "@ngrx/entity": "^9.1.2",
-    "@ngrx/router-store": "^9.1.2",
+    "@ngrx/router-store": "^9.2.0",
     "@ngrx/store": "^9.1.2",
     "@ngrx/store-devtools": "^9.1.2",
     "@ngx-translate/core": "^12.1.2",
